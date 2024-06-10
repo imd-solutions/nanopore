@@ -1,6 +1,6 @@
 Essential 
 
-1. Authentication (oauth, jwt, passport)
+1. Authentication (oauth, jwt, passport, OTP)
 2. Middleware/Route guard
 3. GraphQL endpoint (link customer and account in one)
 4. Added Zod for type checking
